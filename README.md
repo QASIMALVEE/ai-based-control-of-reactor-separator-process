@@ -51,4 +51,3 @@ To build the reports from the LaTeX sources: `cd latex && pdflatex Stage2_Optimi
 
 - arXiv:2408.02315, Koopman modeling of the reactor-separator process (main reference).
 - arXiv:2408.03653 and arXiv:2404.06706, companion papers used for the process equations and parameters.
-- Course lecture material on AI/ML in process modeling and evolutionary optimization.
