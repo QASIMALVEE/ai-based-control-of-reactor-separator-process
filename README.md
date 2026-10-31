@@ -29,8 +29,6 @@ The reports in `reports/` give the full formulation, figures and discussion.
 ├── notebooks/   Jupyter notebook with all three stages
 ├── data/        steady-state and dynamic datasets (CSV)
 ├── models/      trained models saved with joblib
-├── reports/     Stage 2 and Stage 3 reports (PDF and Word)
-├── latex/       LaTeX sources and figures for the reports
 ├── requirements.txt
 └── README.md
 ```
