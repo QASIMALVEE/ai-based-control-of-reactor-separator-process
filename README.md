@@ -43,7 +43,6 @@ The notebook regenerates the datasets and models in its working directory. The s
 
 The dynamic dataset uses 12 randomly generated input schedules within the input bounds. Set `INTERACTIVE = True` in the dynamic-input cell to enter your own schedules.
 
-To build the reports from the LaTeX sources: `cd latex && pdflatex Stage2_Optimization_Report.tex` (run twice), and likewise for the Stage 3 file.
 
 ## References
 
