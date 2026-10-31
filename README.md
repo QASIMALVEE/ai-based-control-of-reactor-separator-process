@@ -1,6 +1,6 @@
 # AI-Based Modeling, Optimization and Control of a Reactor-Separator Process
 
-B.Tech Chemical Engineering, AI in Chemical Engineering course project (Roll No. B23CH1027).
+B.Tech Chemical Engineering, AI in Chemical Engineering course project .
 
 The project builds data-driven models of a reactor-separator process and then uses them for optimization and control. The process has two continuous stirred-tank reactors (CSTRs) in series and a flash tank with recycle. Reactant A converts to the desired product B, which further converts to by-product C (A -> B -> C). The process model follows the Koopman modeling paper arXiv:2408.02315.
 
